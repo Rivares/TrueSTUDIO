@@ -1,0 +1,10 @@
+21:30:17 **** Incremental Build of configuration Debug for project t_11 ****
+Info: Internal Builder is used for build
+arm-atollic-eabi-g++ -c ..\Middlewares\ST\touchgfx\framework\source\touchgfx\widgets\canvas\PainterRGB565Bitmap.cpp -std=gnu++98 -O0 -g -fstack-usage -Wall -fno-threadsafe-statics -specs=nano.specs -o Middlewares\ST\touchgfx\framework\source\touchgfx\widgets\canvas\PainterRGB565Bitmap.o 
+..\Middlewares\ST\touchgfx\framework\source\touchgfx\widgets\canvas\PainterRGB565Bitmap.cpp:16:59: fatal error: touchgfx/widgets/canvas/PainterRGB565Bitmap.hpp: No such file or directory
+ #include <touchgfx/widgets/canvas/PainterRGB565Bitmap.hpp>
+                                                           ^
+compilation terminated.
+
+21:30:17 Build Finished (took 105ms)
+

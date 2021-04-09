@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="E:\0_ARM\TrueSTUDIO\t_12\Core"/>
+		<item value="E:\0_ARM\TrueSTUDIO\t_12"/>
+		<item value="E:\0_ARM\TrueSTUDIO\t_11"/>
+		<item value="E:\0_ARM\TrueSTUDIO\test_spi_1"/>
+		<item value="E:\0_ARM\TrueSTUDIO\test_spi"/>
+		<item value="E:\0_ARM\TouchGFX\t_4\STM32CubeIDE"/>
+		<item value="E:\0_ARM\TouchGFX\t_5\STM32CubeIDE"/>
+		<item value="E:\0_ARM\TrueSTUDIO\template_stm32f746ngh_0"/>
+		<item value="E:\0_ARM\TrueSTUDIO\HAL_GPIO_test_0"/>
+		<item value="E:\0_ARM\TrueSTUDIO\template_stm32f746ngh_truestudio"/>
+	</list>
+</section>

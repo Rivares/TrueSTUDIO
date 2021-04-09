@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;template_stm32f746ngh_truestudio&apos;" deleteContents="false" description="Delete resource &apos;template_stm32f746ngh_truestudio&apos;" element1="/template_stm32f746ngh_truestudio" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1614520444038"/>
+</session>

@@ -1,0 +1,153 @@
+23:51:07 **** Incremental Build of configuration Debug for project test_spi ****
+Info: Internal Builder is used for build
+arm-atollic-eabi-gcc -c -mthumb -mcpu=cortex-m7 -mfloat-abi=hard -mfpu=fpv5-sp-d16 -std=gnu11 -DUSE_HAL_DRIVER -DSTM32F746xx -I../Core/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F7xx/Include -I../Drivers/CMSIS/Include -ffunction-sections -fdata-sections -g -fstack-usage -Wall -specs=nano.specs -o Drivers\STM32F7xx_HAL_Driver\Src\stm32f7xx_hal_rcc_ex.o ..\Drivers\STM32F7xx_HAL_Driver\Src\stm32f7xx_hal_rcc_ex.c 
+arm-atollic-eabi-gcc -c -mthumb -mcpu=cortex-m7 -mfloat-abi=hard -mfpu=fpv5-sp-d16 -std=gnu11 -DUSE_HAL_DRIVER -DSTM32F746xx -I../Core/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F7xx/Include -I../Drivers/CMSIS/Include -ffunction-sections -fdata-sections -g -fstack-usage -Wall -specs=nano.specs -o Drivers\STM32F7xx_HAL_Driver\Src\stm32f7xx_hal_pwr.o ..\Drivers\STM32F7xx_HAL_Driver\Src\stm32f7xx_hal_pwr.c 
+arm-atollic-eabi-gcc -c -mthumb -mcpu=cortex-m7 -mfloat-abi=hard -mfpu=fpv5-sp-d16 -std=gnu11 -DUSE_HAL_DRIVER -DSTM32F746xx -I../Core/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F7xx/Include -I../Drivers/CMSIS/Include -ffunction-sections -fdata-sections -g -fstack-usage -Wall -specs=nano.specs -o Drivers\STM32F7xx_HAL_Driver\Src\stm32f7xx_hal_rcc.o ..\Drivers\STM32F7xx_HAL_Driver\Src\stm32f7xx_hal_rcc.c 
+arm-atollic-eabi-gcc -c -mthumb -mcpu=cortex-m7 -mfloat-abi=hard -mfpu=fpv5-sp-d16 -std=gnu11 -DUSE_HAL_DRIVER -DSTM32F746xx -I../Core/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F7xx/Include -I../Drivers/CMSIS/Include -ffunction-sections -fdata-sections -g -fstack-usage -Wall -specs=nano.specs -o Drivers\STM32F7xx_HAL_Driver\Src\stm32f7xx_hal_i2c.o ..\Drivers\STM32F7xx_HAL_Driver\Src\stm32f7xx_hal_i2c.c 
+arm-atollic-eabi-gcc -c -mthumb -mcpu=cortex-m7 -mfloat-abi=hard -mfpu=fpv5-sp-d16 -std=gnu11 -DUSE_HAL_DRIVER -DSTM32F746xx -I../Core/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F7xx/Include -I../Drivers/CMSIS/Include -ffunction-sections -fdata-sections -g -fstack-usage -Wall -specs=nano.specs -o Drivers\STM32F7xx_HAL_Driver\Src\stm32f7xx_hal_spi.o ..\Drivers\STM32F7xx_HAL_Driver\Src\stm32f7xx_hal_spi.c 
+arm-atollic-eabi-gcc -c -mthumb -mcpu=cortex-m7 -mfloat-abi=hard -mfpu=fpv5-sp-d16 -std=gnu11 -DUSE_HAL_DRIVER -DSTM32F746xx -I../Core/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F7xx/Include -I../Drivers/CMSIS/Include -ffunction-sections -fdata-sections -g -fstack-usage -Wall -specs=nano.specs -o Drivers\STM32F7xx_HAL_Driver\Src\stm32f7xx_hal_i2c_ex.o ..\Drivers\STM32F7xx_HAL_Driver\Src\stm32f7xx_hal_i2c_ex.c 
+arm-atollic-eabi-gcc -c -mthumb -mcpu=cortex-m7 -mfloat-abi=hard -mfpu=fpv5-sp-d16 -std=gnu11 -DUSE_HAL_DRIVER -DSTM32F746xx -I../Core/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F7xx/Include -I../Drivers/CMSIS/Include -ffunction-sections -fdata-sections -g -fstack-usage -Wall -specs=nano.specs -o Drivers\STM32F7xx_HAL_Driver\Src\stm32f7xx_hal_flash.o ..\Drivers\STM32F7xx_HAL_Driver\Src\stm32f7xx_hal_flash.c 
+arm-atollic-eabi-gcc -c -mthumb -mcpu=cortex-m7 -mfloat-abi=hard -mfpu=fpv5-sp-d16 -std=gnu11 -DUSE_HAL_DRIVER -DSTM32F746xx -I../Core/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F7xx/Include -I../Drivers/CMSIS/Include -ffunction-sections -fdata-sections -g -fstack-usage -Wall -specs=nano.specs -o Drivers\STM32F7xx_HAL_Driver\Src\stm32f7xx_hal_spi_ex.o ..\Drivers\STM32F7xx_HAL_Driver\Src\stm32f7xx_hal_spi_ex.c 
+arm-atollic-eabi-gcc -c -mthumb -mcpu=cortex-m7 -mfloat-abi=hard -mfpu=fpv5-sp-d16 -std=gnu11 -DUSE_HAL_DRIVER -DSTM32F746xx -I../Core/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F7xx/Include -I../Drivers/CMSIS/Include -ffunction-sections -fdata-sections -g -fstack-usage -Wall -specs=nano.specs -o Drivers\STM32F7xx_HAL_Driver\Src\stm32f7xx_hal_dma_ex.o ..\Drivers\STM32F7xx_HAL_Driver\Src\stm32f7xx_hal_dma_ex.c 
+arm-atollic-eabi-gcc -c -mthumb -mcpu=cortex-m7 -mfloat-abi=hard -mfpu=fpv5-sp-d16 -std=gnu11 -DUSE_HAL_DRIVER -DSTM32F746xx -I../Core/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F7xx/Include -I../Drivers/CMSIS/Include -ffunction-sections -fdata-sections -g -fstack-usage -Wall -specs=nano.specs -o Drivers\STM32F7xx_HAL_Driver\Src\stm32f7xx_hal_pwr_ex.o ..\Drivers\STM32F7xx_HAL_Driver\Src\stm32f7xx_hal_pwr_ex.c 
+arm-atollic-eabi-gcc -c -mthumb -mcpu=cortex-m7 -mfloat-abi=hard -mfpu=fpv5-sp-d16 -std=gnu11 -DUSE_HAL_DRIVER -DSTM32F746xx -I../Core/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F7xx/Include -I../Drivers/CMSIS/Include -ffunction-sections -fdata-sections -g -fstack-usage -Wall -specs=nano.specs -o Drivers\STM32F7xx_HAL_Driver\Src\stm32f7xx_hal_gpio.o ..\Drivers\STM32F7xx_HAL_Driver\Src\stm32f7xx_hal_gpio.c 
+arm-atollic-eabi-gcc -c -mthumb -mcpu=cortex-m7 -mfloat-abi=hard -mfpu=fpv5-sp-d16 -std=gnu11 -DUSE_HAL_DRIVER -DSTM32F746xx -I../Core/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F7xx/Include -I../Drivers/CMSIS/Include -ffunction-sections -fdata-sections -g -fstack-usage -Wall -specs=nano.specs -o Core\Src\stm32f7xx_hal_msp.o ..\Core\Src\stm32f7xx_hal_msp.c 
+arm-atollic-eabi-gcc -c -mthumb -mcpu=cortex-m7 -mfloat-abi=hard -mfpu=fpv5-sp-d16 -std=gnu11 -DUSE_HAL_DRIVER -DSTM32F746xx -I../Core/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F7xx/Include -I../Drivers/CMSIS/Include -ffunction-sections -fdata-sections -g -fstack-usage -Wall -specs=nano.specs -o Drivers\STM32F7xx_HAL_Driver\Src\stm32f7xx_hal.o ..\Drivers\STM32F7xx_HAL_Driver\Src\stm32f7xx_hal.c 
+arm-atollic-eabi-gcc -c -mthumb -mcpu=cortex-m7 -mfloat-abi=hard -mfpu=fpv5-sp-d16 -std=gnu11 -DUSE_HAL_DRIVER -DSTM32F746xx -I../Core/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F7xx/Include -I../Drivers/CMSIS/Include -ffunction-sections -fdata-sections -g -fstack-usage -Wall -specs=nano.specs -o Drivers\STM32F7xx_HAL_Driver\Src\stm32f7xx_hal_tim_ex.o ..\Drivers\STM32F7xx_HAL_Driver\Src\stm32f7xx_hal_tim_ex.c 
+arm-atollic-eabi-gcc -c -mthumb -mcpu=cortex-m7 -mfloat-abi=hard -mfpu=fpv5-sp-d16 -std=gnu11 -DUSE_HAL_DRIVER -DSTM32F746xx -I../Core/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F7xx/Include -I../Drivers/CMSIS/Include -ffunction-sections -fdata-sections -g -fstack-usage -Wall -specs=nano.specs -o Core\Src\system_stm32f7xx.o ..\Core\Src\system_stm32f7xx.c 
+arm-atollic-eabi-gcc -c -mthumb -mcpu=cortex-m7 -mfloat-abi=hard -mfpu=fpv5-sp-d16 -std=gnu11 -DUSE_HAL_DRIVER -DSTM32F746xx -I../Core/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F7xx/Include -I../Drivers/CMSIS/Include -ffunction-sections -fdata-sections -g -fstack-usage -Wall -specs=nano.specs -o Drivers\STM32F7xx_HAL_Driver\Src\stm32f7xx_hal_dma.o ..\Drivers\STM32F7xx_HAL_Driver\Src\stm32f7xx_hal_dma.c 
+arm-atollic-eabi-gcc -c -mthumb -mcpu=cortex-m7 -mfloat-abi=hard -mfpu=fpv5-sp-d16 -std=gnu11 -DUSE_HAL_DRIVER -DSTM32F746xx -I../Core/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F7xx/Include -I../Drivers/CMSIS/Include -ffunction-sections -fdata-sections -g -fstack-usage -Wall -specs=nano.specs -o Core\Src\main.o ..\Core\Src\main.c 
+arm-atollic-eabi-gcc -c -mthumb -mcpu=cortex-m7 -mfloat-abi=hard -mfpu=fpv5-sp-d16 -std=gnu11 -DUSE_HAL_DRIVER -DSTM32F746xx -I../Core/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F7xx/Include -I../Drivers/CMSIS/Include -ffunction-sections -fdata-sections -g -fstack-usage -Wall -specs=nano.specs -o Drivers\STM32F7xx_HAL_Driver\Src\stm32f7xx_hal_exti.o ..\Drivers\STM32F7xx_HAL_Driver\Src\stm32f7xx_hal_exti.c 
+arm-atollic-eabi-gcc -c -mthumb -mcpu=cortex-m7 -mfloat-abi=hard -mfpu=fpv5-sp-d16 -std=gnu11 -DUSE_HAL_DRIVER -DSTM32F746xx -I../Core/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F7xx/Include -I../Drivers/CMSIS/Include -ffunction-sections -fdata-sections -g -fstack-usage -Wall -specs=nano.specs -o Drivers\STM32F7xx_HAL_Driver\Src\stm32f7xx_hal_flash_ex.o ..\Drivers\STM32F7xx_HAL_Driver\Src\stm32f7xx_hal_flash_ex.c 
+..\Core\Src\main.c: In function 'main':
+..\Core\Src\main.c:97:3: warning: implicit declaration of function 'RCC_APB2PeriphClockCmd' [-Wimplicit-function-declaration]
+   RCC_APB2PeriphClockCmd(RCC_APB2Periph_GPIOB, ENABLE);
+   ^~~~~~~~~~~~~~~~~~~~~~
+..\Core\Src\main.c:97:26: error: 'RCC_APB2Periph_GPIOB' undeclared (first use in this function)
+   RCC_APB2PeriphClockCmd(RCC_APB2Periph_GPIOB, ENABLE);
+                          ^~~~~~~~~~~~~~~~~~~~
+..\Core\Src\main.c:97:26: note: each undeclared identifier is reported only once for each function it appears in
+..\Core\Src\main.c:98:26: error: 'RCC_APB2Periph_SPI2' undeclared (first use in this function)
+   RCC_APB2PeriphClockCmd(RCC_APB2Periph_SPI2, ENABLE);
+                          ^~~~~~~~~~~~~~~~~~~
+..\Core\Src\main.c:105:47: error: 'RCC_APB2Periph_AFIO' undeclared (first use in this function)
+  RCC_APB2PeriphClockCmd(RCC_APB2Periph_GPIOB| RCC_APB2Periph_AFIO, ENABLE);
+                                               ^~~~~~~~~~~~~~~~~~~
+..\Core\Src\main.c:106:2: warning: implicit declaration of function 'RCC_APB1PeriphClockCmd' [-Wimplicit-function-declaration]
+  RCC_APB1PeriphClockCmd(RCC_APB1Periph_SPI2, ENABLE);
+  ^~~~~~~~~~~~~~~~~~~~~~
+..\Core\Src\main.c:106:25: error: 'RCC_APB1Periph_SPI2' undeclared (first use in this function)
+  RCC_APB1PeriphClockCmd(RCC_APB1Periph_SPI2, ENABLE);
+                         ^~~~~~~~~~~~~~~~~~~
+..\Core\Src\main.c:108:20: error: 'GPIO_InitTypeDef {aka struct <anonymous>}' has no member named 'GPIO_Pin'
+  GPIO_InitStructure.GPIO_Pin = GPIO_Pin_13 | GPIO_Pin_14 | GPIO_Pin_15;
+                    ^
+..\Core\Src\main.c:108:32: error: 'GPIO_Pin_13' undeclared (first use in this function)
+  GPIO_InitStructure.GPIO_Pin = GPIO_Pin_13 | GPIO_Pin_14 | GPIO_Pin_15;
+                                ^~~~~~~~~~~
+..\Core\Src\main.c:108:46: error: 'GPIO_Pin_14' undeclared (first use in this function)
+  GPIO_InitStructure.GPIO_Pin = GPIO_Pin_13 | GPIO_Pin_14 | GPIO_Pin_15;
+                                              ^~~~~~~~~~~
+..\Core\Src\main.c:108:60: error: 'GPIO_Pin_15' undeclared (first use in this function)
+  GPIO_InitStructure.GPIO_Pin = GPIO_Pin_13 | GPIO_Pin_14 | GPIO_Pin_15;
+                                                            ^~~~~~~~~~~
+..\Core\Src\main.c:109:20: error: 'GPIO_InitTypeDef {aka struct <anonymous>}' has no member named 'GPIO_Speed'; did you mean 'Speed'?
+  GPIO_InitStructure.GPIO_Speed = GPIO_Speed_50MHz;
+                    ^
+..\Core\Src\main.c:109:34: error: 'GPIO_Speed_50MHz' undeclared (first use in this function)
+  GPIO_InitStructure.GPIO_Speed = GPIO_Speed_50MHz;
+                                  ^~~~~~~~~~~~~~~~
+..\Core\Src\main.c:110:20: error: 'GPIO_InitTypeDef {aka struct <anonymous>}' has no member named 'GPIO_Mode'
+  GPIO_InitStructure.GPIO_Mode = GPIO_Mode_AF_PP;
+                    ^
+..\Core\Src\main.c:110:33: error: 'GPIO_Mode_AF_PP' undeclared (first use in this function)
+  GPIO_InitStructure.GPIO_Mode = GPIO_Mode_AF_PP;
+                                 ^~~~~~~~~~~~~~~
+..\Core\Src\main.c:111:2: warning: implicit declaration of function 'GPIO_Init' [-Wimplicit-function-declaration]
+  GPIO_Init(GPIOB, &GPIO_InitStructure);
+  ^~~~~~~~~
+..\Core\Src\main.c:113:20: error: 'GPIO_InitTypeDef {aka struct <anonymous>}' has no member named 'GPIO_Mode'
+  GPIO_InitStructure.GPIO_Mode = GPIO_Mode_Out_PP;
+                    ^
+..\Core\Src\main.c:113:33: error: 'GPIO_Mode_Out_PP' undeclared (first use in this function)
+  GPIO_InitStructure.GPIO_Mode = GPIO_Mode_Out_PP;
+                                 ^~~~~~~~~~~~~~~~
+..\Core\Src\main.c:114:20: error: 'GPIO_InitTypeDef {aka struct <anonymous>}' has no member named 'GPIO_Pin'
+  GPIO_InitStructure.GPIO_Pin = GPIO_Pin_12;
+                    ^
+..\Core\Src\main.c:114:32: error: 'GPIO_Pin_12' undeclared (first use in this function)
+  GPIO_InitStructure.GPIO_Pin = GPIO_Pin_12;
+                                ^~~~~~~~~~~
+..\Core\Src\main.c:116:2: warning: implicit declaration of function 'GPIO_SetBits' [-Wimplicit-function-declaration]
+  GPIO_SetBits(GPIOB, GPIO_Pin_12);
+  ^~~~~~~~~~~~
+..\Core\Src\main.c:119:19: error: 'SPI_InitTypeDef {aka struct <anonymous>}' has no member named 'SPI_Direction'; did you mean 'Direction'?
+  SPI_InitStructure.SPI_Direction = SPI_Direction_1Line_Tx;
+                   ^
+..\Core\Src\main.c:119:36: error: 'SPI_Direction_1Line_Tx' undeclared (first use in this function)
+  SPI_InitStructure.SPI_Direction = SPI_Direction_1Line_Tx;
+                                    ^~~~~~~~~~~~~~~~~~~~~~
+..\Core\Src\main.c:120:19: error: 'SPI_InitTypeDef {aka struct <anonymous>}' has no member named 'SPI_Mode'; did you mean 'TIMode'?
+  SPI_InitStructure.SPI_Mode = SPI_Mode_Master;
+                   ^
+..\Core\Src\main.c:120:31: error: 'SPI_Mode_Master' undeclared (first use in this function)
+  SPI_InitStructure.SPI_Mode = SPI_Mode_Master;
+                               ^~~~~~~~~~~~~~~
+..\Core\Src\main.c:121:19: error: 'SPI_InitTypeDef {aka struct <anonymous>}' has no member named 'SPI_DataSize'; did you mean 'DataSize'?
+  SPI_InitStructure.SPI_DataSize = SPI_DataSize_8b;
+                   ^
+..\Core\Src\main.c:121:35: error: 'SPI_DataSize_8b' undeclared (first use in this function)
+  SPI_InitStructure.SPI_DataSize = SPI_DataSize_8b;
+                                   ^~~~~~~~~~~~~~~
+..\Core\Src\main.c:122:19: error: 'SPI_InitTypeDef {aka struct <anonymous>}' has no member named 'SPI_CPOL'
+  SPI_InitStructure.SPI_CPOL = SPI_CPOL_Low;
+                   ^
+..\Core\Src\main.c:122:31: error: 'SPI_CPOL_Low' undeclared (first use in this function)
+  SPI_InitStructure.SPI_CPOL = SPI_CPOL_Low;
+                               ^~~~~~~~~~~~
+..\Core\Src\main.c:123:19: error: 'SPI_InitTypeDef {aka struct <anonymous>}' has no member named 'SPI_CPHA'
+  SPI_InitStructure.SPI_CPHA = SPI_CPHA_1Edge;
+                   ^
+..\Core\Src\main.c:123:31: error: 'SPI_CPHA_1Edge' undeclared (first use in this function)
+  SPI_InitStructure.SPI_CPHA = SPI_CPHA_1Edge;
+                               ^~~~~~~~~~~~~~
+..\Core\Src\main.c:124:19: error: 'SPI_InitTypeDef {aka struct <anonymous>}' has no member named 'SPI_NSS'
+  SPI_InitStructure.SPI_NSS = SPI_NSS_Soft;
+                   ^
+..\Core\Src\main.c:124:30: error: 'SPI_NSS_Soft' undeclared (first use in this function)
+  SPI_InitStructure.SPI_NSS = SPI_NSS_Soft;
+                              ^~~~~~~~~~~~
+..\Core\Src\main.c:125:19: error: 'SPI_InitTypeDef {aka struct <anonymous>}' has no member named 'SPI_BaudRatePrescaler'; did you mean 'BaudRatePrescaler'?
+  SPI_InitStructure.SPI_BaudRatePrescaler = SPI_BaudRatePrescaler_2;
+                   ^
+..\Core\Src\main.c:125:44: error: 'SPI_BaudRatePrescaler_2' undeclared (first use in this function)
+  SPI_InitStructure.SPI_BaudRatePrescaler = SPI_BaudRatePrescaler_2;
+                                            ^~~~~~~~~~~~~~~~~~~~~~~
+..\Core\Src\main.c:126:19: error: 'SPI_InitTypeDef {aka struct <anonymous>}' has no member named 'SPI_FirstBit'; did you mean 'FirstBit'?
+  SPI_InitStructure.SPI_FirstBit = SPI_FirstBit_MSB;
+                   ^
+..\Core\Src\main.c:126:35: error: 'SPI_FirstBit_MSB' undeclared (first use in this function)
+  SPI_InitStructure.SPI_FirstBit = SPI_FirstBit_MSB;
+                                   ^~~~~~~~~~~~~~~~
+..\Core\Src\main.c:127:19: error: 'SPI_InitTypeDef {aka struct <anonymous>}' has no member named 'SPI_CRCPolynomial'; did you mean 'CRCPolynomial'?
+  SPI_InitStructure.SPI_CRCPolynomial = 7;
+                   ^
+..\Core\Src\main.c:128:2: warning: implicit declaration of function 'SPI_Init' [-Wimplicit-function-declaration]
+  SPI_Init(SPI2, &SPI_InitStructure);
+  ^~~~~~~~
+..\Core\Src\main.c:129:2: warning: implicit declaration of function 'SPI_Cmd' [-Wimplicit-function-declaration]
+  SPI_Cmd(SPI2, ENABLE);
+  ^~~~~~~
+..\Core\Src\main.c:134:11: warning: implicit declaration of function 'SPI_I2S_GetFlagStatus' [-Wimplicit-function-declaration]
+    while (SPI_I2S_GetFlagStatus(SPI2, SPI_I2S_FLAG_TXE) == RESET);
+           ^~~~~~~~~~~~~~~~~~~~~
+..\Core\Src\main.c:134:39: error: 'SPI_I2S_FLAG_TXE' undeclared (first use in this function)
+    while (SPI_I2S_GetFlagStatus(SPI2, SPI_I2S_FLAG_TXE) == RESET);
+                                       ^~~~~~~~~~~~~~~~
+..\Core\Src\main.c:135:4: warning: implicit declaration of function 'SPI_I2S_SendData' [-Wimplicit-function-declaration]
+    SPI_I2S_SendData(SPI2, 0x1);
+    ^~~~~~~~~~~~~~~~
+Info: Parallel threads used: 4
+
+23:51:08 Build Finished (took 1s.500ms)
+
